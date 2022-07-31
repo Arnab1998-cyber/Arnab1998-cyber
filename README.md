@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Mitra</h1>
 <h3 align="center">An aspiring Data Scientist from India. Passionate about Data and AI technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab1998-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="arnab1998-cyber" /> </p>
-
 
 - 🔭 I’m currently working on [Crowd Density Estimator](https://github.com/Arnab1998-cyber/Crowd-Density-Estimation)
 
