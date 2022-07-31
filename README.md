@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Statistics, Mathematics**
 
-- 📫 How to reach me **mitraarnab.98@gmail.com**
+- 📫 Reach me **mitraarnab.98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WeBdqw66t8xIw9g7r6bDB0LYrOz_--vV/view?usp=sharing](https://drive.google.com/file/d/1WeBdqw66t8xIw9g7r6bDB0LYrOz_--vV/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1WeBdqw66t8xIw9g7r6bDB0LYrOz_--vV/view?usp=sharing](https://drive.google.com/file/d/1WeBdqw66t8xIw9g7r6bDB0LYrOz_--vV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
