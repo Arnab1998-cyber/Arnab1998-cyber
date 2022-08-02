@@ -8,11 +8,11 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Statistics, Mathematics**
 
-- :website: [My website](https://arnab1998-cyber.github.io/ArnabMitra.github.io/index.html)
+- 🌐 My Website [My website](https://arnab1998-cyber.github.io/ArnabMitra.github.io/index.html)
 
 - 📫 Reach me **mitraarnab.98@gmail.com**
 
-- 📄 My Resume [Resume](https://drive.google.com/file/d/1jfbcQaawp2bEncH5LjiCilDKdaDHxD1r/view?usp=sharing)
+- 📄 My Resume [My Resume](https://drive.google.com/file/d/1jfbcQaawp2bEncH5LjiCilDKdaDHxD1r/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
