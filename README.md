@@ -12,7 +12,7 @@
 
 - 📫 Reach me **mitraarnab.98@gmail.com**
 
-- 📄 My Resume [My Resume](https://drive.google.com/file/d/1F_4oVSiyoDpraHM5_LAMLrcbdrPZK8Kd/view?usp=sharing)
+- 📄 My Resume [My Resume](https://drive.google.com/file/d/1M093ew6p7NkFrjawmNQrIOLPvcVnPhkk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
